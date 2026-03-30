@@ -1,0 +1,8 @@
+Flask
+flask-cors
+pymongo
+bcrypt
+pandas
+scikit-learn
+PyJWT
+gunicorn
